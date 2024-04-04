@@ -16,7 +16,6 @@
 ## 📫 how to reach me :
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yeryeong0519=anuraghazra&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeryeong0519&layout=compact)
 
 
