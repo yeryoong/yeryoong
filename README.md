@@ -1,4 +1,4 @@
-## 🍝 Hi, I’m Yeryeong Seo
+## 🍝 Hi, I’m Yeryeong
 
 
 ## 🌱 currently learning :
