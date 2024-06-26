@@ -1,7 +1,7 @@
 ![](https://velog.velcdn.com/images/yeryoong/post/9a3d51c1-de31-4ada-8369-c3fa35fed064/image.gif)
 
 # 🍝 Hello! I’m Yeryeong
-### Currently Learning or Have Learned....
+### Currently Learning or Have Learned...
 
 ## 🍋 Backend
 
