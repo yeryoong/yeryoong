@@ -1,5 +1,3 @@
-![](https://velog.velcdn.com/images/yeryoong/post/9a3d51c1-de31-4ada-8369-c3fa35fed064/image.gif)
-
 # 🍝 Hello! I’m Yeryeong
 ## Currently Learning or Have Learned...
 
@@ -20,5 +18,5 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeryeong0519&layout=compact)
-![image](https://github.com/yeryeong0519/yeryeong0519/assets/81680813/e8ded20b-08a3-4f1c-90c2-92d99eea7c22)
+
 
