@@ -1,4 +1,10 @@
-### 🍝 Hello. I’m Yeryeong! Currently Learning or Have Learned...
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/yeryoong"
+  width="600"
+  height="300"
+/>
+</a>
 
 #### 🍋 Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
